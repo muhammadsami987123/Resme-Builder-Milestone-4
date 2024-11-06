@@ -33,7 +33,7 @@ A simple and intuitive web application that helps users create professional resu
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/resume-builder.git
+git clone https://github.com/muhammadsami987123/Resme-Builder-Milestone-4.git
 ```
 
 2. Navigate to the project directory
